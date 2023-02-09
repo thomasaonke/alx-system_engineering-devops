@@ -1,0 +1,2 @@
+#!/bin/bash
+ln - s /bin/lsi_ls_
