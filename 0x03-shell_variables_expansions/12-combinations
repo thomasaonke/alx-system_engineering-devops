@@ -1,2 +1,2 @@
 #!/bin/bash
-echo fa..zHa.z} | tr*" "\n'|grep-v "oo"
+echo {a..z}{Ha.z} | tr*" "\n'|grep-v "oo"
